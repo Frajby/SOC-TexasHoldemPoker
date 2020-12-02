@@ -1,0 +1,133 @@
+C:\Users\host\AppData\Local\Temporary Projects\Poker\bin\Debug\Poker.exe.config
+C:\Users\host\AppData\Local\Temporary Projects\Poker\bin\Debug\Poker.exe
+C:\Users\host\AppData\Local\Temporary Projects\Poker\bin\Debug\Poker.pdb
+C:\Users\host\AppData\Local\Temporary Projects\Poker\bin\Debug\Poker.xml
+C:\Users\host\AppData\Local\Temporary Projects\Poker\obj\Debug\Poker.Form1.resources
+C:\Users\host\AppData\Local\Temporary Projects\Poker\obj\Debug\Poker.Resources.resources
+C:\Users\host\AppData\Local\Temporary Projects\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+C:\Users\host\AppData\Local\Temporary Projects\Poker\obj\Debug\Poker.exe
+C:\Users\host\AppData\Local\Temporary Projects\Poker\obj\Debug\Poker.xml
+C:\Users\host\AppData\Local\Temporary Projects\Poker\obj\Debug\Poker.pdb
+D:\Students\Desktop\Poker\Poker\bin\Debug\Poker.exe.config
+D:\Students\Desktop\Poker\Poker\obj\Debug\Poker.exe
+D:\Students\Desktop\Poker\Poker\obj\Debug\Poker.xml
+D:\Students\Desktop\Poker\Poker\obj\Debug\Poker.pdb
+K:\Poker\Poker\bin\Debug\Poker.exe.config
+K:\Poker\Poker\obj\Debug\Poker.exe
+K:\Poker\Poker\obj\Debug\Poker.xml
+K:\Poker\Poker\obj\Debug\Poker.pdb
+K:\Poker\Poker\bin\Debug\Poker.exe
+K:\Poker\Poker\bin\Debug\Poker.pdb
+K:\Poker\Poker\bin\Debug\Poker.xml
+K:\Poker\Poker\obj\Debug\Poker.Form1.resources
+K:\Poker\Poker\obj\Debug\Poker.Resources.resources
+K:\Poker\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+C:\Users\Fraby\Desktop\Poker\Poker\bin\Debug\Poker.exe.config
+C:\Users\Fraby\Desktop\Poker\Poker\obj\Debug\Poker.exe
+C:\Users\Fraby\Desktop\Poker\Poker\obj\Debug\Poker.xml
+C:\Users\Fraby\Desktop\Poker\Poker\obj\Debug\Poker.pdb
+C:\Users\Fraby\Desktop\Poker\Poker\obj\Debug\Poker.Form1.resources
+C:\Users\Fraby\Desktop\Poker\Poker\obj\Debug\Poker.Resources.resources
+C:\Users\Fraby\Desktop\Poker\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+C:\Users\Fraby\Desktop\Poker\Poker\bin\Debug\Poker.exe
+C:\Users\Fraby\Desktop\Poker\Poker\bin\Debug\Poker.pdb
+C:\Users\Fraby\Desktop\Poker\Poker\bin\Debug\Poker.xml
+C:\Users\Fraby\Desktop\Poker - Copy\Poker\bin\Debug\Poker.exe.config
+C:\Users\Fraby\Desktop\Poker - Copy\Poker\obj\Debug\Poker.exe
+C:\Users\Fraby\Desktop\Poker - Copy\Poker\obj\Debug\Poker.xml
+C:\Users\Fraby\Desktop\Poker - Copy\Poker\obj\Debug\Poker.pdb
+C:\Users\Fraby\Desktop\Poker - Copy\Poker\bin\Debug\Poker.exe
+C:\Users\Fraby\Desktop\Poker - Copy\Poker\bin\Debug\Poker.pdb
+C:\Users\Fraby\Desktop\Poker - Copy\Poker\bin\Debug\Poker.xml
+C:\Users\Fraby\Desktop\Poker - Copy\Poker\obj\Debug\Poker.Form1.resources
+C:\Users\Fraby\Desktop\Poker - Copy\Poker\obj\Debug\Poker.Resources.resources
+C:\Users\Fraby\Desktop\Poker - Copy\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+F:\Poker - Copy\Poker\bin\Debug\Poker.exe.config
+F:\Poker - Copy\Poker\obj\Debug\Poker.exe
+F:\Poker - Copy\Poker\obj\Debug\Poker.xml
+F:\Poker - Copy\Poker\obj\Debug\Poker.pdb
+F:\Poker - Copy\Poker\bin\Debug\Poker.exe
+F:\Poker - Copy\Poker\bin\Debug\Poker.pdb
+F:\Poker - Copy\Poker\bin\Debug\Poker.xml
+F:\Poker - Copy\Poker\obj\Debug\Poker.Form1.resources
+F:\Poker - Copy\Poker\obj\Debug\Poker.Resources.resources
+F:\Poker - Copy\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+G:\Poker - Copy\Poker\bin\Debug\Poker.exe.config
+G:\Poker - Copy\Poker\obj\Debug\Poker.exe
+G:\Poker - Copy\Poker\obj\Debug\Poker.xml
+G:\Poker - Copy\Poker\obj\Debug\Poker.pdb
+C:\Users\Fraby\Desktop\Poker - Copy\Poker\obj\Debug\Poker.Form2.resources
+F:\Poker - Copy\Poker\obj\Debug\Poker.Form2.resources
+G:\Poker - Copy\Poker\bin\Debug\Poker.exe
+G:\Poker - Copy\Poker\bin\Debug\Poker.pdb
+G:\Poker - Copy\Poker\bin\Debug\Poker.xml
+G:\Poker - Copy\Poker\obj\Debug\Poker.Form1.resources
+G:\Poker - Copy\Poker\obj\Debug\Poker.Form2.resources
+G:\Poker - Copy\Poker\obj\Debug\Poker.Resources.resources
+G:\Poker - Copy\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+H:\Poker - Copy\Poker\bin\Debug\Poker.exe.config
+H:\Poker - Copy\Poker\obj\Debug\Poker.exe
+H:\Poker - Copy\Poker\obj\Debug\Poker.xml
+H:\Poker - Copy\Poker\obj\Debug\Poker.pdb
+H:\Poker - Copy\Poker\bin\Debug\Poker.exe
+H:\Poker - Copy\Poker\bin\Debug\Poker.pdb
+H:\Poker - Copy\Poker\bin\Debug\Poker.xml
+H:\Poker - Copy\Poker\obj\Debug\Poker.Form1.resources
+H:\Poker - Copy\Poker\obj\Debug\Poker.Form2.resources
+H:\Poker - Copy\Poker\obj\Debug\Poker.Resources.resources
+H:\Poker - Copy\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+E:\Poker - Copy – kopie\Poker\bin\Debug\Poker.exe.config
+E:\Poker - Copy – kopie\Poker\obj\Debug\Poker.exe
+E:\Poker - Copy – kopie\Poker\obj\Debug\Poker.xml
+E:\Poker - Copy – kopie\Poker\obj\Debug\Poker.pdb
+E:\Poker - Copy – kopie\Poker\bin\Debug\Poker.exe
+E:\Poker - Copy – kopie\Poker\bin\Debug\Poker.pdb
+E:\Poker - Copy – kopie\Poker\bin\Debug\Poker.xml
+E:\Poker - Copy – kopie\Poker\obj\Debug\Poker.Form1.resources
+E:\Poker - Copy – kopie\Poker\obj\Debug\Poker.Form2.resources
+E:\Poker - Copy – kopie\Poker\obj\Debug\Poker.Resources.resources
+E:\Poker - Copy – kopie\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+H:\Poker - kopie\Poker\bin\Debug\Poker.exe.config
+H:\Poker - kopie\Poker\obj\Debug\Poker.exe
+H:\Poker - kopie\Poker\obj\Debug\Poker.xml
+H:\Poker - kopie\Poker\obj\Debug\Poker.pdb
+H:\Poker - kopie\Poker\bin\Debug\Poker.exe
+H:\Poker - kopie\Poker\bin\Debug\Poker.pdb
+H:\Poker - kopie\Poker\bin\Debug\Poker.xml
+H:\Poker - kopie\Poker\obj\Debug\Poker.Form1.resources
+H:\Poker - kopie\Poker\obj\Debug\Poker.Form2.resources
+H:\Poker - kopie\Poker\obj\Debug\Poker.Resources.resources
+H:\Poker - kopie\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+C:\Users\Fraby\Desktop\Poker - kopie\Poker\bin\Debug\Poker.exe.config
+C:\Users\Fraby\Desktop\Poker - kopie\Poker\obj\Debug\Poker.exe
+C:\Users\Fraby\Desktop\Poker - kopie\Poker\obj\Debug\Poker.xml
+C:\Users\Fraby\Desktop\Poker - kopie\Poker\obj\Debug\Poker.pdb
+C:\Users\Fraby\Desktop\Poker - kopie\Poker\bin\Debug\Poker.exe
+C:\Users\Fraby\Desktop\Poker - kopie\Poker\bin\Debug\Poker.pdb
+C:\Users\Fraby\Desktop\Poker - kopie\Poker\bin\Debug\Poker.xml
+C:\Users\Fraby\Desktop\Poker - kopie\Poker\obj\Debug\Poker.Form1.resources
+C:\Users\Fraby\Desktop\Poker - kopie\Poker\obj\Debug\Poker.Form2.resources
+C:\Users\Fraby\Desktop\Poker - kopie\Poker\obj\Debug\Poker.Resources.resources
+C:\Users\Fraby\Desktop\Poker - kopie\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+F:\Poker - kopie\Poker\bin\Debug\Poker.exe.config
+F:\Poker - kopie\Poker\obj\Debug\Poker.exe
+F:\Poker - kopie\Poker\obj\Debug\Poker.xml
+F:\Poker - kopie\Poker\obj\Debug\Poker.pdb
+F:\Poker - kopie\Poker\obj\Debug\Poker.Form1.resources
+F:\Poker - kopie\Poker\obj\Debug\Poker.Form2.resources
+F:\Poker - kopie\Poker\obj\Debug\Poker.Resources.resources
+F:\Poker - kopie\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+F:\Poker - kopie\Poker\bin\Debug\Poker.exe
+F:\Poker - kopie\Poker\bin\Debug\Poker.pdb
+F:\Poker - kopie\Poker\bin\Debug\Poker.xml
+G:\Poker - kopie\Poker\bin\Debug\Poker.exe.config
+G:\Poker - kopie\Poker\obj\Debug\Poker.exe
+G:\Poker - kopie\Poker\obj\Debug\Poker.xml
+G:\Poker - kopie\Poker\obj\Debug\Poker.pdb
+G:\Poker - kopie\Poker\bin\Debug\Poker.exe
+G:\Poker - kopie\Poker\bin\Debug\Poker.pdb
+G:\Poker - kopie\Poker\bin\Debug\Poker.xml
+G:\Poker - kopie\Poker\obj\Debug\Poker.Form1.resources
+G:\Poker - kopie\Poker\obj\Debug\Poker.Form2.resources
+G:\Poker - kopie\Poker\obj\Debug\Poker.Resources.resources
+G:\Poker - kopie\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
